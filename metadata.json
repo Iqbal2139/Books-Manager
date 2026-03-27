@@ -1,0 +1,5 @@
+{
+  "name": "Book Manager",
+  "description": "A full-stack book management system with Express, Sequelize, JWT Auth, and a React frontend.",
+  "requestFramePermissions": []
+}
